@@ -7,7 +7,7 @@
         "rating": 4.8,
         "level": "Beginner",
         "description": "Learn full-stack web development from scratch using HTML, CSS, and JavaScript.",
-        "image": "https://i.postimg.cc/example-course1.png",
+        "image": "/img/1.png",
         "category": "Development"
     },
     {
@@ -18,7 +18,7 @@
         "rating": 4.9,
         "level": "Intermediate",
         "description": "Master Figma and Adobe XD to create stunning user interfaces and seamless experiences.",
-        "image": "https://i.postimg.cc/example-course2.png",
+        "image": "/img/2.png",
         "category": "Design"
     },
     {
@@ -29,7 +29,7 @@
         "rating": 4.7,
         "level": "Advanced",
         "description": "Deep dive into statistical analysis, neural networks, and predictive modeling.",
-        "image": "https://i.postimg.cc/example-course3.png",
+        "image": "/img/3.jpg",
         "category": "Data Science"
     },
     {
@@ -40,7 +40,7 @@
         "rating": 4.6,
         "level": "Beginner",
         "description": "A comprehensive guide to SEO, SEM, and social media marketing for modern brands.",
-        "image": "https://i.postimg.cc/example-course4.png",
+        "image": "/img/4.png",
         "category": "Marketing"
     },
     {
@@ -51,7 +51,7 @@
         "rating": 4.5,
         "level": "Beginner",
         "description": "Protect digital assets by learning about ethical hacking and network security.",
-        "image": "https://i.postimg.cc/example-course5.png",
+        "image": "/img/5.jpg",
         "category": "IT & Software"
     },
     {
@@ -62,7 +62,7 @@
         "rating": 4.8,
         "level": "Intermediate",
         "description": "Build high-performance native apps for iOS and Android with a single codebase.",
-        "image": "https://i.postimg.cc/example-course6.png",
+        "image": "/img/6.png",
         "category": "Development"
     }
 ]
