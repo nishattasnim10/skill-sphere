@@ -23,7 +23,7 @@ const Navbar = () => {
                
                 <ul className="hidden md:flex items-center gap-10 text-[17px] font-medium text-gray-600">
                     <li className="hover:text-black"><Link href={"/"}>Home</Link></li>
-                    <li className="hover:text-black"><Link href={"/all-photos"}>Courses</Link></li>
+                    <li className="hover:text-black"><Link href={"/all-courses"}>Courses</Link></li>
                     <li className="hover:text-black"><Link href={"/pricing"}>My Profile</Link></li>
                 </ul>
 
@@ -52,7 +52,7 @@ const Navbar = () => {
                         <div className="absolute right-0 top-full w-48 bg-white border border-gray-100 rounded-xl shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50">
                             <ul className="flex flex-col p-3 gap-3 text-[16px] font-medium text-gray-600">
                                 <li><Link href="/" className="block hover:bg-gray-50 p-2 rounded">Home</Link></li>
-                                <li><Link href="/all-photos" className="block hover:bg-gray-50 p-2 rounded">Courses</Link></li>
+                                <li><Link href="/all-courses" className="block hover:bg-gray-50 p-2 rounded">Courses</Link></li>
                                 <li><Link href="/pricing" className="block hover:bg-gray-50 p-2 rounded">My Profile</Link></li>
                                 <div className="border-t my-1"></div>
 
