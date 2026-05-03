@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Complete Web Development Bootcamp"
+    },
+    {
+        "id": 2,
+        "title": "Advanced UI/UX Design Mastery"
+    },
+    {
+        "id": 3,
+        "title": "Data Science & Machine Learning with Python"
+    },
+    {
+        "id": 4,
+        "title": "Digital Marketing Strategy 2026"
+    },
+    {
+        "id": 5,
+        "title": "Cybersecurity Fundamentals"
+    },
+    {
+        "id": 6,
+        "title": "Mobile App Development with Flutter"
+    }
+]
