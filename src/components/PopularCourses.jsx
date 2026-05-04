@@ -77,7 +77,7 @@ export const PopularCourses = async () => {
 
                                 {/*Button*/}
                                 <div className="mt-auto">
-                                    <Link href={`/courses/${course.id}`}>
+                                    <Link href={`/all-courses/${course.id}`}>
                                         <button className="w-full py-4 rounded-2xl bg-[#D93F0B] text-white font-bold text-sm hover:bg-[#b33409] transition-all shadow-[0_10px_20px_rgba(217,63,11,0.2)] hover:shadow-none active:scale-95 uppercase tracking-wider">
                                             View Details
                                         </button>

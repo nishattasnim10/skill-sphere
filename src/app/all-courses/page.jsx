@@ -1,21 +1,19 @@
 import React from 'react'
 import Link from "next/link";
 
+
 export const PopularCourses = async () => {
     const res = await fetch('https://skill-sphere-lac-rho.vercel.app/data.json');
     const data = await res.json();
-    console.log(data);
-
-    // const topRated = data.sort((a, b) => b.rating - a.rating).slice(0, 3);
-    // console.log(topRated);
+    // console.log(data);
 
     return (
-        <section className="max-w-7xl mx-auto px-6 py-20 bg-white">
+        <section className="max-w-7xl mx-auto px-6 pt-13 bg-white">
             <div className="flex flex-col items-center text-center mb-16">
-                <h2 className="text-3xl md:text-5xl font-bold text-slate-900 mb-2">
-                    Popular <span className="text-[#D93F0B]">Courses</span>
+                <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-2">
+                    All <span className="text-[#D93F0B]">Courses</span>
                 </h2>
-                <p className="text-slate-500">Top-rated programs picked just for you</p>
+                <p className="text-slate-500">All programs picked just for you</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
