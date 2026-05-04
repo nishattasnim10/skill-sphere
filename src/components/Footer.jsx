@@ -60,7 +60,7 @@ const Footer = () => {
                 </div>
 
                 {/* Custom Divider - Problem Solved */}
-                <div className="my-10 w-full h-[1px] bg-gray-200" />
+                <div className="my-10 w-full h-[1 px] bg-gray-200" />
 
                 {/* Bottom Footer */}
                 <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-gray-500 text-sm">
